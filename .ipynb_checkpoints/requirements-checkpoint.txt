@@ -1,0 +1,3 @@
+scipy
+python_speech_features
+numpy
